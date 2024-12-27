@@ -1,5 +1,8 @@
 # TopoDistMF-v.1 : Computing Topological Distances between Multi-Fields
 
+This software offers tools for computing topological distances between multi-field data. 
+It was developed as part of the SERB-CRG project (Topological Data Analysis: Tools for Multivariate, 
+SERB/CRG/2018/000702, PI: Dr. Amit Chattopadhyay).
 This archive contains the source code and demonstration scripts for 
 computing the following topological distances between multi-fields based on 
 the corresponding quantized Reeb spaces:
