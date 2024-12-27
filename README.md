@@ -1,4 +1,4 @@
-# TopoDistMF-v.1 : Computing Topological distances between multi-field Data
+# TopoDistMF-v.1 : Computing Topological Distances between Multi-Fields
 
 This archive contains the source code and demonstration scripts for 
 computing the following topological distances between multi-fields based on 
